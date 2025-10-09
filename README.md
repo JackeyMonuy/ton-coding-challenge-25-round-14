@@ -19,12 +19,12 @@ https://t.me/toneachat
 2. 你的主网 TON 钱包地址 = ？
 
 
-## 任务 1：使用 Python 语言的框架实现 Userbot
+## 任务 1：使用其他语言的框架实现 Userbot
 ### 任务描述：
 
 1. 教程使用了 TypeScript 的框架，但是 Python 框架在 userbot 开发中更流行
-2. 请使用 Python 语言的框架实现一个简单的 Userbot
-3. 将对应的 Python 源代码提交到本仓库
+2. 请使用 Python 语言（或者其他非 TypeScript 语言）的框架实现一个简单的 Userbot
+3. 将对应的源代码提交到本仓库，被在下面写上对应的程序入口文件名称
 
 ### 你的答案：
 
